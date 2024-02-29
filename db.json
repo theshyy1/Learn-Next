@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "id": 1,
+      "title": "Blog 1",
+      "author": "Hoang Trung",
+      "content": "Blog is best blog "
+    },
+    {
+      "id": 2,
+      "title": "Blog 2",
+      "author": "Vu Quynh",
+      "content": "Blog is best blog "
+    },
+    {
+      "id": 3,
+      "title": "Blog 3",
+      "author": "Hoang Trung 2",
+      "content": "Blog is best blog 3"
+    }
+  ]
+}
