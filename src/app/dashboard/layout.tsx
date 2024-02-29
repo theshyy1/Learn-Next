@@ -1,6 +1,6 @@
 import NavLinks from "./nav-links";
 
-export default function Layout({ children }: { children: React.ReactNode }) {
+export default function Layout({ children }: any) {
   return (
     <div className="flex h-screen flex-col md:flex-row md:overflow-hidden">
       <div className="w-full flex-none md:w-64">
