@@ -1,6 +1,6 @@
 import Link from "next/link";
 
-export default function Home({ children }: { children: React.ReactNode }) {
+export default function Home() {
   return (
     <section>
       <nav>
